@@ -12,7 +12,7 @@ Maker Media GmbH
 
 Hier finden Sie Skripte und die 3D-Druckvorlagen.
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/21 ab Seite XX](https://www.heise.de/select/make/). 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/21 ab Seite 30](https://www.heise.de/select/make/2021/4/2108307234922752584). 
 
 
 
